@@ -1,0 +1,17 @@
+
+To Include: 
+
+- LinkedIn
+- Resume
+- Tumblr
+- About Page
+- Contact Page
+- Where to view work 
+- Sketches ? 
+- db of art 
+- Blog capabilities on the site 
+
+
+
+// Navbar/header
+
