@@ -17,16 +17,10 @@ body {
     margin-right: 0px;
 }
 
-.nav div.logo {
-    float: left;
-    width: auto;
-    height: auto;
-}
-
-.nav div.logo a {
-    text-decoration: none;
-    color:	#606060;
-    font-size: 2.5rem;
+#laura-header {
+    color: 	#404040;
+    font-weight: bold;
+    font-size: 2rem;
 }
 
 .nav div.logo a:hover {
@@ -58,7 +52,7 @@ body {
     text-decoration: none;
     color:	#606060;
     line-height: 65px;
-    font-size: 2.4rem;
+    font-size: 1.6rem;
 }
 
 .nav div.main_list ul li a:hover {
